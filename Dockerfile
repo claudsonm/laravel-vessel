@@ -5,7 +5,6 @@ LABEL maintainer="Claudson Martins <claudson@outlook.com>"
 RUN apt-get update && apt-get install -y \
     build-essential \
     git \
-    curl \
     zip \
     unzip \
     libzip-dev \
