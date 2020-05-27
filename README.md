@@ -4,7 +4,6 @@ Docker container receptacle to nicely receive a Laravel application.
 
 ## Building and Publishing to Docker Hub
 
-Another comme
 To generate a new version use the following commands:
 
 ```
